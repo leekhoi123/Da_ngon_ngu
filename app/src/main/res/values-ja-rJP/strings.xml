@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Language App</string>
+    <string name="txt_content">ようこそ</string>
+    <string name="txt_mail">電子メール</string>
+    <string name="txt_pass">パスワード</string>
+    <string name="txt_login">ログイン</string>
+    <string name="txt_sign_up">アカウントを持っていないのですか？ サインアップしてください</string>
+    <string name="txt_lang_1">Tiếng Việt</string>
+    <string name="txt_lang_2">日本</string>
+</resources>

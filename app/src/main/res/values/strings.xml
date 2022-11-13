@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Language App</string>
+    <string name="txt_content">Xin chào</string>
+    <string name="txt_mail">Email</string>
+    <string name="txt_pass">Mật khẩu</string>
+    <string name="txt_login">Đăng nhập</string>
+    <string name="txt_sign_up">Không có tài khoản? Vui lòng đăng kí</string>
+    <string name="txt_lang_1">Tiếng Việt</string>
+    <string name="txt_lang_2">日本</string>
+</resources>
